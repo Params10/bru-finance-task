@@ -1,5 +1,7 @@
 # bru-finance-task
 
+This is a demo NFT app to depict the normal transaction of a structure and minting NFTS from frontend button for signing the transaction.
+
 To run this app follow the steps below.
 
 ## Run locally
